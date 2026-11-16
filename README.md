@@ -1,0 +1,1 @@
+Página protegida por senha.
